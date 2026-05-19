@@ -9,7 +9,7 @@
 **Archivo:** `SIMATIC_WinCC_Unified_RT_V21.iso`
 **Tamaño aproximado:** 3 GB
 
-🔗 **[Descargar desde Google Drive](https://drive.google.com/file/d/1CFY3YmVxdzMAvJWRaqMQC-naOvL0CW6L/view?usp=drive_link)**
+🔗 **[Descargar desde Google Drive](https://drive.google.com/file/d/1yhVEfT0rbEOyQ4z2E59NLhz_h30oghzZ/view?usp=drive_link)**
 
 ---
 
@@ -170,31 +170,8 @@ Algunos componentes de Unified requieren **Internet Information Services (IIS)**
 ## 🚀 Flujo de trabajo típico con Unified
 
 ```
-┌───────────────────────────────────────────────────────────┐
-│ 1. Diseño                                                 │
-│    TIA Portal V21 + WinCC Unified Engineering             │
-│    └── Crear proyecto, pantallas, tags                    │
-└───────────────────────────┬───────────────────────────────┘
-                            │
-                            ▼
-┌───────────────────────────────────────────────────────────┐
-│ 2. Compilación                                            │
-│    Click derecho PC-System → Compile                      │
-└───────────────────────────┬───────────────────────────────┘
-                            │
-                            ▼
-┌───────────────────────────────────────────────────────────┐
-│ 3. Despliegue                                             │
-│    Download to device → Software (all)                    │
-│    Destino: WinCC Unified PC Runtime local                │
-└───────────────────────────┬───────────────────────────────┘
-                            │
-                            ▼
-┌───────────────────────────────────────────────────────────┐
-│ 4. Operación                                              │
-│    https://localhost desde navegador                      │
-│    Login con credenciales configuradas                    │
-└───────────────────────────────────────────────────────────┘
+![Flujo de trabajo WinCC Unified](../../assets/images/flujo-trabajo-wincc-unified.svg)
+
 ```
 
 ---

@@ -131,6 +131,8 @@ Durante la instalación se solicitarán:
    - User management
    - WinCC Unified Help
 
+![Portal Web WinCC Unified](../../assets/images/WinCCUnified.png)
+
 Si aparece esta pantalla, el Runtime está correctamente instalado y operativo.
 
 ### Verificación 3 — SIMATIC Runtime Manager

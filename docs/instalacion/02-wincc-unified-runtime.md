@@ -169,10 +169,8 @@ Algunos componentes de Unified requieren **Internet Information Services (IIS)**
 
 ## 🚀 Flujo de trabajo típico con Unified
 
-```
-![Flujo de trabajo WinCC Unified](../../assets/images/flujo-trabajo-wincc-unified.svg)
 
-```
+![Flujo de trabajo WinCC Unified](../../assets/images/flujo-trabajo-wincc-unified.svg)
 
 ---
 

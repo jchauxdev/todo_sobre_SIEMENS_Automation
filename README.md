@@ -1,12 +1,12 @@
 # 🏭 Manual de Automatización Industrial con Siemens
 
-> Repositorio de formación SENA sobre programación, configuración y puesta en marcha de soluciones de automatización industrial con tecnología Siemens (TIA Portal, WinCC Unified, S7-1500, ET 200SP, HMIs y SCALANCE).
+> Repositorio sobre programación, configuración y puesta en marcha de soluciones de automatización industrial con tecnología Siemens (TIA Portal, WinCC Unified, S7-1500, ET 200SP, HMIs y SCALANCE).
 
 ---
 
 ## 📖 Introducción
 
-Este repositorio funciona como **guía técnica y didáctica** para instructores y aprendices del SENA que trabajan con el ecosistema Siemens en proyectos de automatización industrial. El material está construido a partir de experiencias prácticas reales con equipos físicos y entornos simulados, documentando paso a paso desde la instalación del software hasta la implementación de sistemas SCADA modernos basados en web.
+Este repositorio funciona como **guía técnica y didáctica** para ingenieros y estudiantes que trabajan con el ecosistema Siemens en proyectos de automatización industrial. El material está construido a partir de experiencias prácticas reales con equipos físicos y entornos simulados, documentando paso a paso desde la instalación del software hasta la implementación de sistemas SCADA modernos basados en web.
 
 El objetivo es proporcionar un recurso de consulta rápida, ordenado, en español, que cubra los escenarios típicos de:
 
@@ -23,8 +23,7 @@ El objetivo es proporcionar un recurso de consulta rápida, ordenado, en españo
 
 | Perfil | Nivel sugerido |
 |---|---|
-| Instructores de automatización industrial | Todos los niveles |
-| Aprendices técnicos y tecnólogos SENA | Básico - Intermedio |
+| Ingenieros de automatización industrial | Todos los niveles |
 | Ingenieros de mantenimiento industrial | Intermedio - Avanzado |
 | Integradores de sistemas | Avanzado |
 

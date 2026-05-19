@@ -50,16 +50,6 @@ S7-PLCSIM Advanced es el **simulador avanzado de PLCs Siemens S7-1500**. A difer
 | TIA Portal | V14 o superior | V19 (compatibilidad óptima) |
 | Driver de red | Npcap OEM (incluido) | Npcap OEM (incluido) |
 
-### ⚠️ Compatibilidad con TIA Portal
-
-Según el manual oficial de Siemens (V7.0, noviembre 2024):
-
-> Las instancias simuladas de PLC en S7-PLCSIM Advanced V7 corresponden a CPU S7-15xx V3.1, **compatible con TIA Portal V14 a V19**.
-
-**Notas importantes:**
-- Con TIA Portal V20 y V21 puede haber **comportamientos inconsistentes**
-- La compatibilidad total esperada es con **PLCSIM Advanced V8** (cuando Siemens lo libere)
-- Para TIA Portal V21, considera **bajar la versión del firmware del CPU** en el proyecto a V2.9 o inferior
 
 ---
 
